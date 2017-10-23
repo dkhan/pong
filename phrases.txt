@@ -4,6 +4,7 @@
 10:5 - Watch
 10:6 - Shut up!
 10:7 - Special serve
+10:8 - Broken ball! (The score anounced as 9:9 - deprecated as highly confusing)
 7:1 - Brazilian disaster
 8:4 - Dangerous
 
